@@ -1,0 +1,14 @@
+.centre {
+    text-align: center;
+}
+
+.centre img {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.petite-image img {
+    width: 60vw;
+    max-width: 250px;
+    height: auto;
+}
